@@ -23,7 +23,7 @@ Set if scrolling from bottom to top so the event handler will be called when scr
 </ul>
 ```
 
-## Set borth scroll directions
+## Set scroll both directions
 
 Set if scrolling from bottom to top so the event handler will be called when scrolled almost to the top.
 
